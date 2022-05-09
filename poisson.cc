@@ -30,6 +30,7 @@ int Poissonverteilung_1ab(){
 
   fin.close();
   fout.close();
+  return 0;
 }
 int main(){
   Poissonverteilung_1ab();
